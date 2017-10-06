@@ -1,0 +1,9 @@
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\bin\Debug\notatnik.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\bin\Debug\notatnik.pdb
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\obj\x86\Debug\notatnik.Form1.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\obj\x86\Debug\notatnik.Properties.Resources.resources
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\obj\x86\Debug\notatnik.csproj.GenerateResource.Cache
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\obj\x86\Debug\notatnik.exe
+C:\Users\Patryk\AppData\Local\Temporary Projects\notatnik\obj\x86\Debug\notatnik.pdb
+D:\visual\projekty\notatnik\notatnik\obj\x86\Debug\notatnik.exe
+D:\visual\projekty\notatnik\notatnik\obj\x86\Debug\notatnik.pdb
